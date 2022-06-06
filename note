@@ -1,0 +1,15 @@
+Steps For BAckend
+
+1.  initialize the firebase:- firebase init
+2.  Choose Function, from given options
+3.  Do some required stuff.
+4.  Choose Language for cloud Function :- Here Choose , Javascript
+5.  Install Dependecies , if asked then type (Y)
+
+## After this whenever needed to install the pacjkages , then we have to move in the correct location using cd.
+
+For Example here i want to install the express in index.js of Backed Function Folder ,
+So First Of all we have to channge the directory to install the packages: cd Function.
+
+After these all process:- 6. Install these three packages.
+express, cors and stripe.
